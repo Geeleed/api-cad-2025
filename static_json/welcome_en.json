@@ -1,0 +1,68 @@
+{
+  "content": {
+    "h1.unlocking": "“Unlocking Potential, One Step at a Time!”",
+    "h2.welcome": "Welcome to “Center for Autism Development (CAD)”",
+    "p.at": "At CAD, our purpose is to empower individuals with neurodiversity and their families to live the most self-fulfilling and independent lives possible.",
+    "p.we": "We are a learning center dedicated to developing the potential of children with autism, ADHD, or developmental delays through an early intensive language and behavioral intervention classroom. Our goal is to enhance language skills and stimulate all-around development using the principles of Applied Behavior Analysis (ABA) along with the Early Start Denver Model (ESDM) teaching approach. The program is taught in both English and Thai.",
+    "h2.how": "How We Help Your Child Thrive",
+    "h3.certified": "Certified and designed ABA treatment specifically for children with special needs",
+    "p.treatment": "Treatment based on Applied Behavior Analysis (ABA) focuses on understanding and modifying the behaviors of children with autism and other developmental delays. It aims to reinforce desirable behaviors and reduce inappropriate behaviors, while also helping children learn new skills and build social interactions. ABA treatment is internationally recognized as the most research-supported and evidence-based practice (EBP). It is not only suitable for children with autism but also for children with other developmental disorders, such as Attention-Deficit/Hyperactivity Disorder (ADHD), speech delays, global developmental delays, sensory processing disorder (SPD), and social, emotional, and behavioral challenges.",
+    "h3.the": "The only center in Thailand applying the learning program from the Pennsylvania Department of Education",
+    "p.we_are": "We are operated by a team of Board-Certified Behavior Analysts (BCBA) with over 14 years of experience. All instructors receive extensive training and close supervision to ensure high-quality teaching that aligns with ethical standards.",
+    "p.currently": "Currently, CAD is the only learning center in Thailand applying the learning program from the Pennsylvania Training and Technical Assistance Network (PaTTAN), which is an educational standard developed by the Pennsylvania Department of Education in the United States, in collaboration with Dr. Amiris DiPuglia, an expert in behavior analysis for children with special needs and PaTTAN’s educational consultant for, and Mr. Mike Miklos, a psychology expert and Board Certified Behavior Analyst specializing in autism and developmental delays.",
+    "p.we.adopt": "We adopt Naturalistic Teaching as the core approach in our learning program, focusing on promoting positive behaviors and enhancing various aspects of children's development. This includes speech and communication skills, social skills, self-care skills, appropriate behavioral expression, and school readiness.",
+    "p.each": "Each child will receive a tailored classroom program designed to suit their age, skills, development, and learning behaviors. Teaching is conducted in a one-on-one format, with detailed progress tracking through individualized reports that highlight developmental milestones in various areas, which can be followed up on, measured, and used as a reference. Additionally, we offer training and consultation services for parents to guide them in supporting their child's development outside the classroom."
+  },
+  "style": [
+    {
+      "element": "p.we",
+      "content": "Applied Behavior Analysis (ABA)",
+      "fontWeight": "bold"
+    },
+    {
+      "element": "p.we",
+      "content": "Early Start Denver Model (ESDM)",
+      "fontWeight": "bold"
+    },
+    {
+      "element": "p.treatment",
+      "content": "Treatment based on Applied Behavior Analysis (ABA)",
+      "fontWeight": "bold"
+    },
+    {
+      "element": "p.treatment",
+      "content": "Attention-Deficit/Hyperactivity Disorder (ADHD), speech delays, global developmental delays, sensory processing disorder (SPD), and social, emotional, and behavioral challenges.",
+      "fontWeight": "bold"
+    },
+    {
+      "element": "p.we_are",
+      "content": "Board-Certified Behavior Analysts (BCBA)",
+      "fontWeight": "bold"
+    },
+    {
+      "element": "p.currently",
+      "content": "the Pennsylvania Training and Technical Assistance Network (PaTTAN)",
+      "fontWeight": "bold"
+    },
+    {
+      "element": "p.currently",
+      "content": "the Pennsylvania Department of Education",
+      "fontWeight": "bold"
+    },
+    {
+      "element": "p.currently",
+      "content": "Dr. Amiris DiPuglia",
+      "fontWeight": "bold"
+    },
+    {
+      "element": "p.currently",
+      "content": "Mr. Mike Miklos",
+      "fontWeight": "bold"
+    },
+    {
+      "element": "p.we_adopt",
+      "content": "Naturalistic Teaching",
+      "fontWeight": "bold"
+    }
+  ]
+}

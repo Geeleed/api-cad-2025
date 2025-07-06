@@ -1,0 +1,60 @@
+{
+  "element": "h1",
+  "content": "Our Services",
+  "id": 1,
+  "child": [
+    {
+      "element": "h2",
+      "content": "Early Intensive Language Behavioral Intervention Classroom",
+      "id": 2,
+      "child": [
+        {
+          "content": "Offers an Individualized Education Program (IEP) designed by Board Certified Behavior Analysts (BCBA), with a pre-enrollment language and developmental assessment to ensure the program is best suited for each child.",
+          "id": 3
+        },
+        {
+          "content": "Integrates Applied Behavior Analysis (ABA) principles with the Early Start Denver Model (ESDM) teaching approach to develop children's skills in areas such as speaking, communication, social skills, self-help, emotional regulation, behavior modification, promoting desirable behaviors, school readiness, and developing essential learning skills, including self-control and attention to tasks.",
+          "id": 4
+        },
+        {
+          "content": "Provides two classroom program options: a half-day program (15 hours/week) and a full-day program (30 hours/week).",
+          "id": 5
+        },
+        {
+          "content": "Programs available in English and Thai, Monday to Friday.",
+          "id": 6
+        }
+      ]
+    },
+    {
+      "element": "h2",
+      "content": "Parent Training",
+      "id": 7,
+      "child": [
+        {
+          "content": "Offers training for parents on essential techniques for supporting children outside the classroom, such as promoting communication, managing undesirable behaviors, and fostering overall developmental progress. The parent training consists of 8 hours per month and is included in the early intensive classroom program.",
+          "id": 8
+        },
+        {
+          "content": "Provides a summary report on each child’s progress and holds a parent meeting to update on developmental progress.",
+          "id": 9
+        }
+      ]
+    },
+    {
+      "element": "h2",
+      "content": "Training and Consultation Service",
+      "id": 10,
+      "child": [
+        {
+          "content": "Offers consultation on how to manage and provide treatment for children with special needs, as well as how to design an effective and appropriate learning program.",
+          "id": 11
+        },
+        {
+          "content": "Provides training for instructors or therapists interested in the field.",
+          "id": 12
+        }
+      ]
+    }
+  ]
+}

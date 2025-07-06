@@ -1,0 +1,81 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+// generator client {
+//   provider = "prisma-client-js"
+//   output   = "../generated/prisma"
+// }
+
+// datasource db {
+//   provider = "postgresql"
+//   url      = env("DATABASE_URL")
+// }
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Person {
+  id_person   Int          @id @default(autoincrement())
+  name_en     String?
+  name_th     String?
+  email       String?      @unique
+  role_en     String?
+  role_th     String?
+  position_en String?
+  position_th String?
+  src_image   String?
+  Highlight   Highlight[]
+  Credential  Credential[]
+  Education   Education[]
+}
+
+model Highlight {
+  id_highlight Int     @id @default(autoincrement())
+  content_en   String?
+  content_th   String?
+  id_person    Int
+  element_type String  @default("p")
+  person       Person  @relation(fields: [id_person], references: [id_person])
+}
+
+model Credential {
+  id_credential Int     @id @default(autoincrement())
+  content_en    String?
+  content_th    String?
+  id_person     Int
+  element_type  String  @default("p")
+  person        Person  @relation(fields: [id_person], references: [id_person])
+}
+
+model Education {
+  id_education Int     @id @default(autoincrement())
+  content_en   String?
+  content_th   String?
+  id_person    Int
+  element_type String  @default("p")
+  person       Person  @relation(fields: [id_person], references: [id_person])
+}
+
+model ServiceTitle {
+  id_service_title Int             @id @default(autoincrement())
+  content_en       String?
+  content_th       String?
+  ServiceDetail    ServiceDetail[]
+}
+
+model ServiceDetail {
+  id_service_detail Int          @id @default(autoincrement())
+  id_service_title  Int
+  content_en        String?
+  content_th        String?
+  service_title     ServiceTitle @relation(fields: [id_service_title], references: [id_service_title])
+}

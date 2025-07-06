@@ -1,0 +1,433 @@
+{
+  "element": "h1",
+  "content": "Meet Our Doctor",
+  "id": 1,
+  "child": [
+    {
+      "label": "intro",
+      "content": "Dr. Songpoom serves as a consultant and partner psychiatrist at the CAD Center, offering expert guidance and support in the field of psychiatry. He has been a dedicated psychiatrist at multiple hospitals and is an entrepreneur with his own clinic Sunshine Mind Clinic. Dr. Songpoom has an extensive background in child and adolescent psychiatry, with significant roles in both academia and clinical practice.",
+      "id": 2
+    },
+    {
+      "element": "h2",
+      "label": "about",
+      "content": "About Sunshine Mind Clinic",
+      "id": 3,
+      "child": [
+        {
+          "content": "Founded in 2020 by Asst. Prof. Dr. Songpoom Benyakorn, a lecturer at the Department of Psychiatry, Faculty of Medicine, Srinakharinwirot University, Sunshine Mind Clinic operates under the slogan \"You smile, we smile.\" Our mission is to foster a humble spirit, encouraging people to live together as a family and society, creating a nurturing environment for children.",
+          "id": 4
+        },
+        {
+          "content": "We aim to provide a safe and welcoming therapy environment designed to be comforting like home with hospitality staffs. We listen to children because we were once young ourselves.",
+          "id": 5
+        }
+      ]
+    },
+    {
+      "element": "h2",
+      "label": "services",
+      "content": "Services and Prices",
+      "id": 6,
+      "child": [
+        {
+          "content": "“Treatment is not always necessary to use medication.”",
+          "id": 7
+        },
+        {
+          "content": "At Sunshine Mind Clinic, patients are evaluated for development and well-being by a team of child and adolescent psychiatrists, clinical psychologists, special education teachers, occupational therapists, and speech therapists. ",
+          "id": 8
+        },
+        {
+          "content": "Our services include:",
+          "id": 9,
+          "child": [
+            {
+              "content": "Mental Health and Developmental Assessment",
+              "id": 10
+            },
+            {
+              "content": "Adult Mental Health Evaluation and Treatment",
+              "id": 11
+            },
+            {
+              "content": "Counseling for Families, Spouses and children",
+              "id": 12
+            },
+            {
+              "content": "Cognitive and Educational Assessment Test: Conducted by a clinical psychologist",
+              "id": 13
+            },
+            {
+              "content": "Psychotherapy and Counseling: Provided by a clinical psychologist",
+              "id": 14
+            },
+            {
+              "content": "Stimulating Child Development: Conducted by a psychologist",
+              "id": 15
+            },
+            {
+              "content": "Special Education: Taught by specialized teachers",
+              "id": 16
+            },
+            {
+              "content": "Speech Training and Pronunciation Stimulation: Provided by speech therapists",
+              "id": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "element": "h2",
+      "label": "appointments",
+      "content": "Common Appointments or Problems Addressed at Sunshine Mind Clinic",
+      "id": 18,
+      "child": [
+        {
+          "content": "1. Attention Deficit Hyperactivity Disorder (ADHD)",
+          "id": 19
+        },
+        { "content": "2. Depression and Anxiety", "id": 20 },
+        { "content": "3. Autism", "id": 21 },
+        { "content": "4. Child development problems", "id": 22 },
+        { "content": "5. Learning disabilities (LD)", "id": 23 },
+        { "content": "6. Behavioral problems", "id": 24 },
+        { "content": "7. Sleep problems", "id": 25 }
+      ]
+    },
+    {
+      "element": "h2",
+      "label": "service fee",
+      "content": "Our Service Fee",
+      "id": 26,
+      "child": [
+        {
+          "content": {
+            "name": "Psychotherapy",
+            "price": {
+              "min": 500,
+              "max": 1000,
+              "currency": "baht"
+            }
+          },
+          "id": 27
+        },
+        {
+          "content": {
+            "name": "Psychotherapy (30 minutes)",
+            "price": {
+              "min": 2000,
+              "max": 2000,
+              "currency": "baht"
+            }
+          },
+          "id": 28
+        },
+        {
+          "content": {
+            "name": "Psychotherapy (60 minutes)",
+            "price": {
+              "min": 2500,
+              "max": 3500,
+              "currency": "baht"
+            }
+          },
+          "id": 29
+        },
+        {
+          "content": {
+            "name": "Developmental Examination (30 minutes)",
+            "price": {
+              "min": 1500,
+              "max": 1500,
+              "currency": "baht"
+            }
+          },
+          "id": 30
+        },
+        {
+          "content": {
+            "name": "Developmental Examination (60 minutes)",
+            "price": {
+              "min": 2500,
+              "max": 2500,
+              "currency": "baht"
+            }
+          },
+          "id": 31
+        },
+        {
+          "content": {
+            "name": "Behavior Modification (60 minutes)",
+            "price": {
+              "min": 1200,
+              "max": 1500,
+              "currency": "baht"
+            }
+          },
+          "id": 32
+        },
+        {
+          "content": {
+            "name": "IQ Test (Thai Report)",
+            "price": {
+              "min": 2200,
+              "max": 2500,
+              "currency": "baht"
+            }
+          },
+          "id": 33
+        },
+        {
+          "content": {
+            "name": "IQ Test + WRAT-Thai (Thai Report)",
+            "price": {
+              "min": 3000,
+              "max": 3000,
+              "currency": "baht"
+            }
+          },
+          "id": 34
+        },
+        {
+          "content": {
+            "name": "IQ Test (English Report)",
+            "price": {
+              "min": 2500,
+              "max": 2500,
+              "currency": "baht"
+            }
+          },
+          "id": 35
+        },
+        {
+          "content": {
+            "name": "IQ Test + WRAT-English (English Report)",
+            "price": {
+              "min": 3500,
+              "max": 3500,
+              "currency": "baht"
+            }
+          },
+          "id": 36
+        },
+        {
+          "content": {
+            "name": "Projective Test",
+            "price": {
+              "min": 3000,
+              "max": 3000,
+              "currency": "baht"
+            }
+          },
+          "id": 37
+        },
+        {
+          "content": {
+            "name": "Medical Certificate",
+            "price": {
+              "min": 500,
+              "max": 500,
+              "currency": "baht"
+            }
+          },
+          "id": 38
+        }
+      ]
+    },
+    {
+      "element": "h2",
+      "label": "courses",
+      "content": "10 Consecutive Courses (1 hour each)",
+      "id": 39,
+      "child": [
+        {
+          "content": {
+            "name": "Special Education",
+            "price": {
+              "min": 8000,
+              "max": 8000,
+              "currency": "baht"
+            }
+          },
+          "id": 40
+        },
+        {
+          "content": {
+            "name": "Speech Therapy",
+            "price": {
+              "min": 11000,
+              "max": 11000,
+              "currency": "baht"
+            }
+          },
+          "id": 41
+        },
+        {
+          "content": {
+            "name": "Developmental Stimulation",
+            "price": {
+              "min": 12000,
+              "max": 12000,
+              "currency": "baht"
+            }
+          },
+          "id": 42
+        }
+      ]
+    },
+    {
+      "element": "h2",
+      "label": "faq",
+      "content": "FAQ",
+      "id": 43,
+      "child": [
+        {
+          "content": {
+            "q": "How do I tell my child we're going to the doctor?",
+            "a": "Be honest and straightforward. Open the website to show them which doctor they will see today, where they will go. Tell them a few days in advance to allow them to adjust."
+          },
+          "id": 44
+        },
+        {
+          "content": {
+            "q": "How do I explain the visit to the doctor to my child?",
+            "a": "When explaining, you can say, \"We're going to the doctor to help with your problem. The doctor will help us find a way to make you feel better and happier.\""
+          },
+          "id": 45
+        },
+        {
+          "content": {
+            "q": "What should I do when I first meet the doctor?",
+            "a": "Arrive 15 minutes early to register and fill forms. For small children, it's recommended to arrive 30 minutes early to allow them to adjust and be familiar with the clinic setting."
+          },
+          "id": 46
+        },
+        {
+          "content": {
+            "q": "Is it necessary to bring my child to the first appointment?",
+            "a": "Yes, it's important to bring your child to the first appointment. However, for certain issues, it may not be necessary. Please consult with staff for your concerns before visit."
+          },
+          "id": 47
+        },
+        {
+          "content": {
+            "q": "At what age can a young child be evaluated?",
+            "a": "Children as young as 2-3 years old can receive developmental assessment."
+          },
+          "id": 48
+        },
+        {
+          "content": {
+            "q": "How long is each doctor's visit and how often?",
+            "a": "Each visit typically lasts 1 hour. Initially, the doctor will follow up on the symptoms every month. If the symptoms improve, you may make an appointment for a follow-up every three to four months."
+          },
+          "id": 49
+        },
+        {
+          "content": {
+            "q": "Is there an online service available?",
+            "a": "Yes, we offer online consultation. However, distance assessment may not be as effective as onsite visit, especially for pre-school children."
+          },
+          "id": 50
+        },
+        {
+          "content": {
+            "q": "What is the cost of services at the clinic?",
+            "a": "The cost ranges from 2,500 to 3,500 baht, excluding medication fee, which costs an additional around 25-50 baht per day."
+          },
+          "id": 51
+        },
+        {
+          "content": {
+            "q": "Will my child's teacher know if they visit the doctor?",
+            "a": "No, we adhere to strict confidentiality laws and ethical codes. Your child's visit will not be disclosed to outsiders unless you allow it."
+          },
+          "id": 52
+        },
+        {
+          "content": {
+            "q": "Does the clinic offer any other services besides medical?",
+            "a": "Yes, we offer psychotherapy, group therapy, behavioral therapy, special education and speech therapy. Services can be received without the need to see a doctor."
+          },
+          "id": 53
+        },
+        {
+          "content": {
+            "q": "Is it necessary to take medication in psychiatric treatment?",
+            "a": "Medication is prescribed based on the patient's symptoms and needs. The decision to use medication will be made by the doctor on a case-by-case basis."
+          },
+          "id": 54
+        }
+      ]
+    },
+    {
+      "element": "h2",
+      "label": "contact",
+      "content": "Contact Us",
+      "id": 55,
+      "child": [
+        {
+          "label": "website",
+          "content": {
+            "contact_type": "Website",
+            "contact": "www.sunshinemind.com",
+            "href": "https://www.sunshinemind.com"
+          },
+          "id": 56
+        },
+        {
+          "label": "facebook",
+          "content": {
+            "contact_type": "Facebook Page",
+            "contact": "โลกสมาธิสั้น by Sunshine Mind Clinic",
+            "href": "https://www.facebook.com/ADHDThailand?locale=th_TH"
+          },
+          "id": 57
+        },
+        {
+          "label": "phone",
+          "content": {
+            "contact_type": "Phone",
+            "contact": "080-553-5215",
+            "href": "tel:0805535215"
+          },
+          "id": 58
+        },
+        {
+          "label": "line",
+          "content": {
+            "contact_type": "Line",
+            "contact": "sunshinemind",
+            "href": "https://line.me/R/ti/p/~sunshinemind"
+          },
+          "id": 59
+        },
+        {
+          "label": "email",
+          "content": {
+            "contact_type": "Email",
+            "contact": "sunshinemind2020@gmail.com",
+            "href": "mailto:sunshinemind2020@gmail.com"
+          },
+          "id": 60
+        }
+      ]
+    },
+    {
+      "content": {
+        "name": "banner",
+        "src_image": "https://scontent.fbkk13-2.fna.fbcdn.net/v/t39.30808-6/477461603_28798438656407045_7690006696629212746_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=_1RyPou2RhcQ7kNvwEV6lS7&_nc_oc=AdlLBajXS537IFzdbflTX_CAAG2G3VCoktS7P3FR84ReuyVLn5OgivN8UAcPKYdmrcrdB8f4EdNLDA60YZHowhc0&_nc_zt=23&_nc_ht=scontent.fbkk13-2.fna&_nc_gid=nyW7kt1zABJPjzsr6RVdBw&oh=00_AfTdp2iwwZ5L2YGb-cH88XpptORx_ScgjOguUBKfEf9opg&oe=686F51DE"
+      },
+      "id": 61
+    },
+    {
+      "content": {
+        "name": "doctor",
+        "src_image": "/statics/images/team/หมอ ทรงภูมิ.jpg"
+      },
+      "id": 62
+    }
+  ]
+}

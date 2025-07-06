@@ -1,0 +1,156 @@
+{
+  "content": {
+    "en": "Educational Videos",
+    "th": null
+  },
+  "id": 1,
+  "child": [
+    {
+      "content": {
+        "title": "ทำไมการยื้อแย่งแกล้งงงถึงไม่ได้ผลเวลาสอนเด็กออทิสติกให้พูด?",
+        "src": "https://www.youtube.com/embed/7GfABCg6Fjk?si=H1X2rn8KTnrEkHq9"
+      },
+      "id": 2
+    },
+    {
+      "content": {
+        "title": "การปรับพฤติกรรมไวต่อเสียงในเด็กออทิสติกด้วยเทคนิคของ ABA",
+        "src": "https://www.youtube.com/embed/k2isy_lJWoM?si=7ZJyVdG79e2b00k1"
+      },
+      "id": 3
+    },
+    {
+      "content": {
+        "title": "เทคนิคการสอนภาษา ฝึกพูด เด็กเล็กเด็กพูดช้าเด็กออทิสติก Naturalistic teaching",
+        "src": "https://www.youtube.com/embed/wUzZ7UDNyVs?si=-m9IOsthiKbrmlY2"
+      },
+      "id": 4
+    },
+    {
+      "content": {
+        "title": "ไอเดียกิจกรรมเทคนิคฝึกพูดเด็กเล็ก เด็กพูดช้า เด็กออทิสติก Naturalistic teaching",
+        "src": "https://www.youtube.com/embed/JdQgKpWkbvg?si=9tFHqYw4a2lGZ0dN"
+      },
+      "id": 5
+    },
+    {
+      "content": {
+        "title": "เทคนิคการสอนฝึกพูดในเด็กออทิสติก สิ่งที่ควรทำและสิ่งที่ไม่ควรทำ",
+        "src": "https://www.youtube.com/embed/36WAzW_eS3g?si=OXbEn4pRHc_gGQcB"
+      },
+      "id": 6
+    },
+    {
+      "content": {
+        "title": "ทำไงดี? เด็กชอบหนีตอนเราจะสอนพูด เทคนิคฝึกพูดในเด็กเล็ก เด็กพูดช้า เด็กออทิสติก",
+        "src": "https://www.youtube.com/embed/MXSoV7k17-Y?si=u9dYR1U08RkDI82t"
+      },
+      "id": 7
+    },
+    {
+      "content": {
+        "title": "เทคนิคการปรับพฤติกรรมกรี๊ด โวยวาย เอาแต่ใจ ในเด็กเล็ก เด็กพูดช้า เด็กออทิสติก",
+        "src": "https://www.youtube.com/embed/-bbbqtRmrr8?si=nSkJeWSAL3qtUeqZ"
+      },
+      "id": 8
+    },
+    {
+      "content": {
+        "title": "เทคนิคการปรับพฤติกรรมเด็กเอาแต่ใจ ในเด็กเล็ก เด็กพูดช้า เด็กออทิสติก",
+        "src": "https://www.youtube.com/embed/dtL17wIbLhc?si=ImlA59GEWbshxm9I"
+      },
+      "id": 9
+    },
+    {
+      "content": {
+        "title": "ไอเดียกิจกรรม กระตุ้นภาษา ฝึกพูดในเด็กเล็ก เด็กพูดช้า เด็กออทิสติก Naturaistic teaching",
+        "src": "https://www.youtube.com/embed/zuC6B0mEPsw?si=FdzfNMToKY_HOLQi"
+      },
+      "id": 10
+    },
+    {
+      "content": {
+        "title": "ตัวอย่างกิจกรรมฝึกพูด สอนพูดในเด็กเล็ก เด็กพูดช้า เด็กออทิสติก",
+        "src": "https://www.youtube.com/embed/0Ykd_YDa1io?si=H_ItVVQi3kRQltxA"
+      },
+      "id": 11
+    },
+    {
+      "content": {
+        "title": "เทคนิคการแก้เด็กพูดตาม สอนให้เด็กพูดด้วยตัวเอง ฝึกพูดในเด็กเล็ก เด็กพูดช้า เด็กออทิสติก",
+        "src": "https://www.youtube.com/embed/oE16m7ghlHA?si=0-EsGQ99IKEz6x1Z"
+      },
+      "id": 12
+    },
+    {
+      "content": {
+        "title": "เทคนิคแก้ปัญหาเด็กพูดตาม สอนศัพท์ไปแล้วลืม ไม่พูดด้วยตัวเองในเด็กเล็ก เด็กพูดช้า เด็กออทิสติก",
+        "src": "https://www.youtube.com/embed/R-dM059Fn-c?si=9LvEJBfQclHJ2PdG"
+      },
+      "id": 13
+    },
+    {
+      "content": {
+        "title": "เทคนิคการสอนปรับพฤติกรรม เด็กไม่ฟัง ไม่ทำตามคำสั่ง ไม่ยอมพูด แย่งคว้าของ",
+        "src": "https://www.youtube.com/embed/2mPsFkj27ZE?si=CZIA0723fMG9FiNR"
+      },
+      "id": 14
+    },
+    {
+      "content": {
+        "title": "เทคนิคการสอนให้เด็กตั้งไจเรียนตอนฝึกพูด กระตุ้นภาษาสำหรับเด็กเล็ก เด็กพูดช้า เด็กออทิสติก",
+        "src": "https://www.youtube.com/embed/IBt0LHetFjk?si=eyUoJTQNLYSeTDP3"
+      },
+      "id": 15
+    },
+    {
+      "content": {
+        "title": "เทคนิคการสอน การรอคอย เพิ่มการมองหน้าสบตาอย่างเป็นธรรมชาติ สำหรับเด็กเล็ก เด็กพูดช้า เด็กออทิสติก",
+        "src": "https://www.youtube.com/embed/5VaCTUTD7H4?si=sEpCiR5X4m2EtrOO"
+      },
+      "id": 16
+    },
+    {
+      "content": {
+        "title": "เทคนิคการสอนภาษาให้เด็กพูดสื่อสารด้วยตัวเองสำหรับเด็กเล็ก เด็กพูดช้า เด็กออทิสติก",
+        "src": "https://www.youtube.com/embed/F-izW1tVZyo?si=RkX8ImfuIG4nkMMy"
+      },
+      "id": 17
+    },
+    {
+      "content": {
+        "title": "เทคนิคการสอนให้เด็กระบุคำ เพิ่มคำศัพท์ ลดการพูดตาม ในเด็กเล็ก เด็กพูดช้า เด็กออทิสติก",
+        "src": "https://www.youtube.com/embed/I2MqAiJWMYQ?si=X_HrrTOw9KMxtwcm"
+      },
+      "id": 18
+    },
+    {
+      "content": {
+        "title": "เทคนิคการสอนภาษา ลดการพูดภาษาต่างดาว ภาษาการ์ตูนในเด็กออทิสติก",
+        "src": "https://www.youtube.com/embed/Xj-aHIIfZBk?si=R-71yfE1E1CfQSv8"
+      },
+      "id": 19
+    },
+    {
+      "content": {
+        "title": "เทคนิคการสอน เด็กพูดไม่ชัด ไม่พูดตาม ให้สามารถพูดได้เอง Shaping Procedure",
+        "src": "https://www.youtube.com/embed/HVCkttRFsI0?si=pEaWhqiQB1_r8RiB"
+      },
+      "id": 20
+    },
+    {
+      "content": {
+        "title": "เทคนิคการปรับพฤติกรรม โยนของ ปาของลงพื้น ในเด็กเล็ก เด็กพูดช้า เด็กออทิสติก",
+        "src": "https://www.youtube.com/embed/apqTx0p8H7Y?si=OUNf7z--8gsRDidV"
+      },
+      "id": 21
+    },
+    {
+      "content": {
+        "title": "เทคนิคการสอนพูด วิธีนำเสนอให้สนุก สำหรับสอนเด็กเล็ก เด็กพูดช้า เด็กออทิสติก",
+        "src": "https://www.youtube.com/embed/ZXta1cUq9Rg?si=OPfAYskp_zNAx7wJ"
+      },
+      "id": 22
+    }
+  ]
+}
