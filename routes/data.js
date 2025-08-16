@@ -41,21 +41,21 @@ router.route("/").post(async (req, res) => {
   const conn = await pool.connect();
   const { resource_type, name } = req.body;
   try {
-    await conn.query(`BEGIN`);
-    const result = await conn.query(
-      `SELECT * FROM cad__resource WHERE resource_type = $1 AND name = $2`,
-      [resource_type, name]
-    );
-    await conn.query(`COMMIT`);
-
-    // let tempResult = cad__resource.map((el, index) => ({
-    //   ...el,
-    //   id_resource: index + 1,
-    // }));
-    // tempResult = tempResult.filter(
-    //   (el) => el.resource_type === resource_type && el.name === name
+    // await conn.query(`BEGIN`);
+    // const result = await conn.query(
+    //   `SELECT * FROM cad__resource WHERE resource_type = $1 AND name = $2`,
+    //   [resource_type, name]
     // );
-    // const result = { rows: tempResult };
+    // await conn.query(`COMMIT`);
+
+    let tempResult = cad__resource.map((el, index) => ({
+      ...el,
+      id_resource: index + 1,
+    }));
+    tempResult = tempResult.filter(
+      (el) => el.resource_type === resource_type && el.name === name
+    );
+    const result = { rows: tempResult };
 
     const returnResult = result.rows[0];
     // console.log(returnResult);
@@ -75,13 +75,13 @@ router.route("/landing").post(async (req, res) => {
   try {
     const { locale } = req.body;
 
-    const result = await conn.query(`SELECT * FROM cad__resource`);
-    let tempResult = result.rows;
+    // const result = await conn.query(`SELECT * FROM cad__resource`);
+    // let tempResult = result.rows;
 
-    // let tempResult = cad__resource.map((el, index) => ({
-    //   ...el,
-    //   id_resource: index + 1,
-    // }));
+    let tempResult = cad__resource.map((el, index) => ({
+      ...el,
+      id_resource: index + 1,
+    }));
 
     const {
       resource: { h1_1, h1_2, p, img },
@@ -226,6 +226,8 @@ router.route("/landing").post(async (req, res) => {
   } catch (error) {
     console.error(error);
     res.status(500).json({});
+  } finally {
+    conn.release();
   }
 });
 
